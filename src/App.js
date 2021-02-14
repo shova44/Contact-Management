@@ -16,8 +16,8 @@ class App extends React.Component{
       {id:1,name:'Ram',phone:98432355,email:"ram@gmail.com"},
       {id:2,name:"Shayam",phone:797826,email:"shayam@gmail.com"},
       {id:3,name:"Hari",phone:9739447, email:"hari@gmail.com"},
-      {id:4,name:"Ritu",phone:937384,email:"ritu@gamil.com"},
-      {id:5,name:"Nita",phone:83753893,email:"nita@gmail.com"}
+      {id:4,name:"Sonam",phone:937384,email:"sonam@gamil.com"},
+      {id:5,name:"Pratima",phone:83753893,email:"pratima@gmail.com"}
     ] 
     // showHide:false
 
